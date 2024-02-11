@@ -1,1 +1,6 @@
+streamlit
 streamlit_option_menu
+requests
+streamlit_lottie
+PIL
+Image
