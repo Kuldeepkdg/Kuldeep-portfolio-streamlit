@@ -6,7 +6,7 @@ from PIL import Image
 
 ##Theme and page layout settings
 
-CURRENT_THEME = "light"
+CURRENT_THEME = "dark"
 st.set_page_config(page_title="Kuldeep Garg",
                    layout="wide")
 st.title("Kuldeep Garg :grey[(He/Him)]:technologist:")
