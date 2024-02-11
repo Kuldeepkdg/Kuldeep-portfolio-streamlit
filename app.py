@@ -35,7 +35,7 @@ def localcss(filename):
     with open(filename) as f:
         st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html=True)
 
-local_css=localcss("https://github.com/Kuldeepkdg/Kuldeep-portfolio-streamlit/blob/main/Style/style.css")
+#local_css=localcss("https://github.com/Kuldeepkdg/Kuldeep-portfolio-streamlit/blob/main/Style/style.css")
 
 ##importing the animation from lottie url
 
