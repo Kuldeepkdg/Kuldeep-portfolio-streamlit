@@ -47,9 +47,9 @@ def load_lottieurl(url):
 
 lottie_coder = load_lottieurl("https://assets5.lottiefiles.com/packages/lf20_UBiAADPga8.json")
 
-#ETL_Aws_image=Image.open("https://github.com/Kuldeepkdg/Kuldeep-portfolio-streamlit/blob/main/Images/ETL_AWS_Project.jpg")
-#Bulldozer_price_prediction_image=Image.open("https://github.com/Kuldeepkdg/Kuldeep-portfolio-streamlit/blob/main/Images/Bulldozer_price_prediction.png")
-#Heart_disease_prediction_image=Image.open("https://github.com/Kuldeepkdg/Kuldeep-portfolio-streamlit/blob/main/Images/Heart_disease_prediction.jpeg")
+ETL_Aws_image=Image.open("./Images/ETL_AWS_Project.jpg")
+Bulldozer_price_prediction_image=Image.open("./Images/Bulldozer_price_prediction.png")
+Heart_disease_prediction_image=Image.open("./Images/Heart_disease_prediction.jpeg")
 
 ##creating the body for the appliaction pages
 
